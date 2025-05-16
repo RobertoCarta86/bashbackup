@@ -19,8 +19,7 @@ This repository includes:
 ## 🚀 Usage
 
 For each script:
-
-```bash
+bash
 chmod +x script_name.sh
 ./script_name.sh
 
@@ -31,9 +30,9 @@ To automate via cron:
 
 Make sure to:
 
-    Avoid storing sensitive backups in public or unsecured locations.
+- Avoid storing sensitive backups in public or unsecured locations.
 
-    Restrict access to the scripts and generated backup files.
+- Restrict access to the scripts and generated backup files.
 
 🧾 License
 
